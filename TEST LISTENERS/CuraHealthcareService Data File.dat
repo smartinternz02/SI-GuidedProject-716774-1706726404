@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>CuraHealthcareService Data File</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>bc42991d-86d7-4aed-b011-b02cd094e031</dataFileGUID>
+   <dataSourceUrl>C:\Users\sachi\OneDrive\Desktop\CuraHealthcareService Data File.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

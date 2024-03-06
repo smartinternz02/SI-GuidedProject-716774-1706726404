@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>CuraHealthcareAppointment</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>ed5edf60-cfd9-4651-a930-5901df671131</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Hongkong+CURA+Healthcare+Center Book+my+Appointment+1</data>
+   <data>Seoul+CURA+Healthcare+Center Book+my+Appointment+2</data>
+   <data>Tokyo+CURA+Healthcare+Center Book+my+Appointment+3</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Facility</name>
+      <size>3</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>Comment</name>
+      <size>3</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
